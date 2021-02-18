@@ -1,8 +1,13 @@
-*{
-    background-color: bisque;
+/** @format */
+
+* {
+  background-color: bisque;
+  margin: 0;
 }
-.me{
-    background: brown;
-    margin: 2rem;
-    padding:4rem;
+.me {
+  background: brown;
+  margin: 2rem;
+  padding: 4rem;
+  color: azure;
+  font-size: 50px;
 }
